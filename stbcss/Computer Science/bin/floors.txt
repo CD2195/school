@@ -1,0 +1,27 @@
+Low pile carpet
+4
+18.75
+Shag rug
+5
+11.05
+Parquet
+0
+14.35
+Linoleum
+1
+10.40
+Hardwood
+0
+28.15
+Marble
+0
+32.64
+Slate
+0
+23.19
+Gold
+2
+1617.11
+Ball pit
+5
+25.60
